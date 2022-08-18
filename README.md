@@ -1,2 +1,0 @@
-# Jenkins-Terraform
-jenkins-terraform
